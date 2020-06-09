@@ -4,7 +4,7 @@
 
 using namespace std;
 
-const int N = 8;
+const int N = 14;
 
 class Solution
 {
